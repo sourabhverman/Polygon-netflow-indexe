@@ -140,8 +140,3 @@ polygon-netflow-indexer/
 - This README explains the schema, logic, API, and scalability plan.
 - The source includes inline comments describing the transformation steps.
 
----
-
-## License
-
-MIT
